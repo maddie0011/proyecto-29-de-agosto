@@ -1,0 +1,56 @@
+*{margin: 0PX;}
+.nivel1
+{
+    background-color:powderblue;
+    padding: 20px;
+    border-style: dotted;
+    border-color: blueviolet;
+}
+.nivel2
+{
+    background-color: rgb(104, 182, 182);
+    padding: 20px;
+    padding: 30px 30px 40px 30px;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-radius: 50px;
+}
+.nivel3
+{
+    background-color: paleturquoise;
+    padding: 20px;
+    border-style: dotted;
+    border-color: blueviolet;
+}
+.nivel4
+{
+    background-color: rgb(30, 118, 233);
+    padding: 20px;
+    margin: 10px;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-radius: 50px;
+}
+.nivel5
+{
+    background-color: brown;
+    padding: 20px;
+    border-style: dotted;
+    border-color: blueviolet;
+}
+.nivel6
+{
+    background-color: rgb(71, 243, 186);
+    padding: 20px;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-radius: 50px;
+}
+.nivel7
+{
+    background-color: rgb(134, 226, 233);
+    padding: 20px;
+    margin: 10px;
+    border-style: dotted;
+    border-color: blueviolet;
+}
